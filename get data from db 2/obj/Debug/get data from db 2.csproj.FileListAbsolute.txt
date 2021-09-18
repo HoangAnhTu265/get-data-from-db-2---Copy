@@ -1,0 +1,6 @@
+F:\bài tập c#\WCF application\get data from db 2\get data from db 2\obj\Debug\get data from db 2.csproj.CoreCompileInputs.cache
+F:\bài tập c#\WCF application\get data from db 2\get data from db 2\bin\get data from db 2.dll.config
+F:\bài tập c#\WCF application\get data from db 2\get data from db 2\bin\get data from db 2.dll
+F:\bài tập c#\WCF application\get data from db 2\get data from db 2\bin\get data from db 2.pdb
+F:\bài tập c#\WCF application\get data from db 2\get data from db 2\obj\Debug\get data from db 2.dll
+F:\bài tập c#\WCF application\get data from db 2\get data from db 2\obj\Debug\get data from db 2.pdb

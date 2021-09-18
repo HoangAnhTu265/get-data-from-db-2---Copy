@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get data from db 2", "get data from db 2\get data from db 2.csproj", "{E000AE20-4595-4812-B54E-569A0B5D237C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{79E4D967-20CD-4109-9273-F8F222124855}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E000AE20-4595-4812-B54E-569A0B5D237C} = {E000AE20-4595-4812-B54E-569A0B5D237C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E000AE20-4595-4812-B54E-569A0B5D237C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E000AE20-4595-4812-B54E-569A0B5D237C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E000AE20-4595-4812-B54E-569A0B5D237C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E000AE20-4595-4812-B54E-569A0B5D237C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E4D967-20CD-4109-9273-F8F222124855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E4D967-20CD-4109-9273-F8F222124855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E4D967-20CD-4109-9273-F8F222124855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E4D967-20CD-4109-9273-F8F222124855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E719490-27AF-4B8B-8178-C61EEEEB2E7F}
+	EndGlobalSection
+EndGlobal
