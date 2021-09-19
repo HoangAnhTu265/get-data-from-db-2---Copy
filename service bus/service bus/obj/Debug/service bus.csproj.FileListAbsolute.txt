@@ -1,0 +1,10 @@
+F:\bài tập c#\WCF application\service bus\service bus\bin\service bus.dll.config
+F:\bài tập c#\WCF application\service bus\service bus\bin\service bus.dll
+F:\bài tập c#\WCF application\service bus\service bus\bin\service bus.pdb
+F:\bài tập c#\WCF application\service bus\service bus\bin\M2Mqtt.Net.dll
+F:\bài tập c#\WCF application\service bus\service bus\bin\M2Mqtt.Net.pdb
+F:\bài tập c#\WCF application\service bus\service bus\obj\Debug\service bus.csproj.CoreCompileInputs.cache
+F:\bài tập c#\WCF application\service bus\service bus\obj\Debug\service bus.csproj.CopyComplete
+F:\bài tập c#\WCF application\service bus\service bus\obj\Debug\service bus.dll
+F:\bài tập c#\WCF application\service bus\service bus\obj\Debug\service bus.pdb
+F:\bài tập c#\WCF application\service bus\service bus\obj\Debug\service bus.csprojAssemblyReference.cache
